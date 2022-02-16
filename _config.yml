@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NIU Shuang-xia"
+title                    : "NIU Shuangxia"
 title_separator          : "-"
-name                     : &name "Dr.NIU Shuang-xia"
+name                     : &name "Dr. NIU Shuang-xia"
 description              : &description "Associate Professor"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://apriltxm.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "POLYU-EMLAB"
   google_plus      :
   keybase          :
   instagram        :
