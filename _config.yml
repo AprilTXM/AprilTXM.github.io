@@ -85,9 +85,9 @@ author:
   bio              : "BSc(Eng.), MSc(Eng.), PhD"
   location         : "HONGKONG"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=lIH-GZIAAAAJ&hl=zh-CN&oi=sra"
-  email            :
+  email            : "shuangxia DOT niu AT polyu DOT edu DOT hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
