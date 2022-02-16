@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+This is Dr. NIU Shuangxia's personal webpage! She is currently a Associate Professor in the Department of Electrical Engineering at Hong Kong Polytechnic University
 
 Biography
 ======
