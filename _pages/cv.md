@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education and qualifications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Tianjin University, China, 2002
+* M.Sc. in Tianjin University, China, 2005
+* Ph.D. in University of Hong Kong, HK CN, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From Aug 2009 to Aug 2012
+  * Hong Kong Polytechnic University
+  * Postdoctoral Fellow
+  * Supervisor: Professor FU Weinong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* From Sep 2012 to Aug 2015
+  * Hong Kong Polytechnic University
+  * Department of Electrical Engineering
+  * Research Assistant Professor
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Since 2015
+  * Hong Kong Polytechnic University
+  * Department of Electrical Engineering
+  * Associate Professor
