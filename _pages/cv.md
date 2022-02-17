@@ -19,6 +19,7 @@ Work experience
 ----------
 * From Aug 2009 to Aug 2012
   * Hong Kong Polytechnic University
+  * Department of Electrical Engineering
   * Postdoctoral Fellow
   * Supervisor: Professor FU Weinong
 
