@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+--------
 * B.Sc. in Tianjin University, China, 2002
 * M.Sc. in Tianjin University, China, 2005
 * Ph.D. in University of Hong Kong, HK CN, 2009
 
 Work experience
-======
+----------
 * From Aug 2009 to Aug 2012
   * Hong Kong Polytechnic University
   * Postdoctoral Fellow
