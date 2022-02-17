@@ -3,17 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Employment"
-    url: /Employment/    
-
-  - title: "Education and qualifications "
-    url: /experience/    
-    
   - title: "Fundings"
-    url: /Fundings/
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Supervision"
+    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Position(s) Available"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Education"
     url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
