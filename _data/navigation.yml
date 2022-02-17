@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Fundings"
+  - title: "Projects"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Activities"
     url: /teaching/    
     
-  - title: "Supervision"
+  - title: "Awards"
     url: /portfolio/
-        
-  - title: "Position(s) Available"
-    url: /year-archive/
     
   - title: "Education"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Research interests"
     url: /markdown/
+
+  - title: "Position(s) Available"
+    url: /year-archive/
