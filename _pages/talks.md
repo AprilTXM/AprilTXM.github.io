@@ -48,7 +48,7 @@ _PolyU (UGC), Research Grants Council(GRF)_
 
 1/01/18 → 31/12/20
 
-**A Novel Magnetic-geared Brushless Dual-rotor Wind Power Generator
+**A Novel Magnetic-geared Brushless Dual-rotor Wind Power Generator**
 
 Innovation and Technology Commission
 
