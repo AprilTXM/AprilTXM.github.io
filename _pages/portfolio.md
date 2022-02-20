@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Activities"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
