@@ -16,11 +16,7 @@ main:
     url: /cv/
     
   - title: "Research interests"
-    url: /markdown/
+    url: /potrop/
 
   - title: "Position(s) Available"
     url: /year-archive/
-    
-    
-  - title: "potrop"
-    url: /potrop/
