@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests/Areas
---------
-
 Dr. Niu research interests include **Electric Vehicle Technologies, Renewable Energy Systems, Machines and Drives, Power Electronics technology, Applied Electromagnetic, Numerical Method and Optimization**. The details are presented as follows,
 
 * **Electrical Vehicle Technologies**
